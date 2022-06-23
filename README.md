@@ -1,1 +1,11 @@
 # HiCoders-Directory-Structure
+mkdir HiCoders
+cd HiCoders
+mkdir CSS
+mkdir Preperation
+cd Preperation
+mkdir My_notes
+cd My_notes
+touch Lecture_01,txt
+mkdir Researches
+mkdir Slides
